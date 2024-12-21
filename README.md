@@ -52,3 +52,4 @@ This should only happen if you already have a version installed using a differen
 This can be solved by uninstalling the app prior to attempting to install this version.
 
 Removing it from the app bar is not the same as removing it from the device, you need to actually go into the applications menu and remove it from there.
+
